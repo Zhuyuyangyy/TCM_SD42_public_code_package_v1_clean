@@ -1,0 +1,4 @@
+version,dataset,n,syn_at_1,macro_f1,weighted_f1,balanced_acc,format_validity,empty_prediction_rate
+Pilot-SFT-clean-v3,pilot_420,420,69.52,50.37,56.37,51.91,100.0,0.0
+Pilot-SFT-clean-v3,full_4452,4452,60.60,41.74,47.42,51.33,100.0,0.0
+Qwen3-8B-zero-shot,pilot_420,420,5.71,0.76,3.79,0.91,82.86,17.14

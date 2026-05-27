@@ -1,0 +1,13 @@
+{
+  "dataset": "pilot_420",
+  "model": "Pilot-SFT-clean-v3",
+  "n": 420,
+  "strict_syn@1": 69.52,
+  "lenient_syn@1": 69.52,
+  "macro_f1": 50.37,
+  "weighted_f1": 56.37,
+  "balanced_accuracy": 51.91,
+  "format_validity": 100.0,
+  "empty_prediction": 0.0,
+  "avg_latency_ms": 4173
+}

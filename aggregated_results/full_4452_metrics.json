@@ -1,0 +1,13 @@
+{
+  "dataset": "full_4452",
+  "model": "Pilot-SFT-clean-v3",
+  "n": 4452,
+  "strict_syn@1": 60.6,
+  "lenient_syn@1": 60.6,
+  "macro_f1": 41.74,
+  "weighted_f1": 47.42,
+  "balanced_accuracy": 51.33,
+  "format_validity": 100.0,
+  "empty_prediction": 0.0,
+  "avg_latency_ms": 4201
+}
